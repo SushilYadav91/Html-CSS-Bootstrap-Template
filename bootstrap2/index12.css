@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.content{
+    background: url(./admin\ home\ page.jpg) ;
+    padding-top: 20px;
+    padding-left: 10px;
+    width: 100%;
+    height: 100vh;
+    /* height: 700%; */
+    /* margin: auto; */
+    color:  #fff;
+    background-size:cover;
+    /* position: relative; */
+}
+
+
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+
+}
+
+.logo{
+    color: #ff7200;
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+    padding-top: 10px;
+
+}
+
+.content .par{
+    padding-top: 80px;
+    padding-left: 70px;
+    padding-right: 40px;
+    padding-bottom: 55px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+
+}
+
+.content h1{
+    font-family: 'Times New Roman';
+    font-size: 50px;
+    padding-left: 20px;
+    margin-left: 9px;
+    letter-spacing: 2px;
+
+}
+
+.content .cn{
+    width: 160px;
+    height: 40px;
+    background : #ff7200;
+    border: none;
+    margin-bottom: 10px ;
+    margin-left: 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+
+
+}
+
+.content .cn a{
+    text-decoration: none;
+    color: #000;
+    transition: .3s ease;
+}
+
+.cn:hover{
+    background-color: #fff;
+}
+
+.content span{
+    color: #ff7200;
+    font-size: 60px;
+}
